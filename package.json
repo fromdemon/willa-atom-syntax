@@ -1,0 +1,11 @@
+{
+  "name": "willa-syntax",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "A From Demon Willa themed Atom syntax highlighter.",
+  "repository": "https://github.com/fromdemon/willa-atom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
